@@ -23,6 +23,10 @@ header {
     color: white;
     text-align: center;
     background: #17694a;
+    min-height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .site-logo {
     position: absolute;
